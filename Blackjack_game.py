@@ -1,12 +1,5 @@
 """
-NOME: Matheus Silva de Lima
-TURMA: 360
-Computação e Soluções de Problemas I.
-
-Trabalho T2
-Questão número 3.
-
-Escreva um programa que implemente o Jogo "Vinte e Um" (Blackjack). Neste jogo, são sorteados:
+Programa que implementa o Jogo "Vinte e Um" (Blackjack). Neste jogo, são sorteados:
 a. Três cartas para o computador;
 b. Duas cartas + 1 carta opcional para o jogador. Por exemplo, o jogo informa quais são as cartas do
    jogador e a soma das 2 cartas obrigatórias, e o jogador escolhe se pretende ter uma 3ª carta ou
@@ -19,9 +12,6 @@ b. Duas cartas + 1 carta opcional para o jogador. Por exemplo, o jogo informa qu
    aproximar mais de 21 ganha o jogo (se o computador exceder 21, o jogador ganha), sendo que
    em caso de empate entre o jogador e o computador, o jogador perde.
 """
-print("NOME: Matheus Silva de Lima")
-print("TURMA: 360")
-print("\n")
 
 from random import randrange
 
