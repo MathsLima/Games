@@ -1,20 +1,11 @@
 """
-NOME: Matheus Silva de Lima
-TURMA: 360
-Computação e Soluções de Problemas I.
-
-Trabalho T2
-Questão número 1
-
-Escreva um programa que simule um jogo de adivinhação de números. O computador escolhe um
+Programa que simula um jogo de adivinhação de números. O computador escolhe um
 número aleatório entre 1 e 30, e o jogador (usuário) tem até 5 chances de acertar o número escolhido
 pelo computador. Se o jogador informar um valor incorreto (fora dos limites pedidos), deve-se pedir
 outro número, repetidamente, até que o jogador informe um valor correto, o qual contará como uma
-jogada válida. O programa deve informar se o jogador ganhou, ou após 5 tentativas, informar que o
-jogador perdeu e mostrar qual era o valor sorteado.
+jogada válida. O programa informa se o jogador ganhou, ou após 5 tentativas, informa que o
+jogador perdeu e mostra qual era o valor sorteado.
 """
-print("NOME: Matheus Silva de Lima")
-print("TURMA: 360")
 
 #A maquina criara um numero aleatorio.
 from random import randrange
