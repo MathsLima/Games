@@ -1,20 +1,10 @@
 """
-NOME: Matheus Silva de Lima
-TURMA: 360
-Computação e Soluções de Problemas I.
-
-Trabalho T2
-Questão número 2
-
-Escreva um programa que simule o jogo de Par ou Ímpar. Primeiramente, o jogador deve escolher
+Programa que simula o jogo de Par ou Ímpar. Primeiramente, o jogador deve escolher
 entre PAR ou IMPAR. Depois, o jogador que deve escolher um número entre 0 e 9. O computador
-deve gerar um valor aleatório também entre 0 e 9. Então, o programa deve informar quais os valores
-informados por cada um e deve informar qual foi o vencedor! Lembrar que deve-se controlar para
-que o usuário não informe valores incorretos, caso isso ocorra, deve-se pedir um novo valor válido.
+deve gerar um valor aleatório também entre 0 e 9. Então, o programa informa quais os valores
+informados por cada um e informa qual foi o vencedor! O usuário não deve informar valores 
+incorretos, caso isso ocorra, deve-se pedir um novo valor válido.
 """
-print("NOME: Matheus Silva de Lima")
-print("TURMA: 360")
-print("\n")
 
 #Escolha do par ou impar do usuario
 x = False
