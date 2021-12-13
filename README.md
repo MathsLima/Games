@@ -1,2 +1,2 @@
 # Jogos
-Jogos diversos interativos ao usuário criados em linguagem Phyton.
+Jogos diversos e interativos ao usuário criados utilizando linguagem Phyton.
